@@ -1,0 +1,38 @@
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.exe
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.deps.json
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.runtimeconfig.json
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.pdb
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Npgsql.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.AssemblyReference.cache
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.AssemblyInfoInputs.cache
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.AssemblyInfo.cs
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.CoreCompileInputs.cache
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.CopyComplete
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\refint\PR5.dll
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.pdb
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.genruntimeconfig.cache
+C:\Users\gr624_eshrso\Downloads\PR5 (2)\PR5\PR5\obj\Debug\net7.0\ref\PR5.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.exe
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.deps.json
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.runtimeconfig.json
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\PR5.pdb
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\bin\Debug\net7.0\Npgsql.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.AssemblyReference.cache
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.AssemblyInfoInputs.cache
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.AssemblyInfo.cs
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.CoreCompileInputs.cache
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.csproj.CopyComplete
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\refint\PR5.dll
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.pdb
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\PR5.genruntimeconfig.cache
+E:\Zagruzki\PR5 (2) (1)\PR5 (2)\PR5\PR5\obj\Debug\net7.0\ref\PR5.dll

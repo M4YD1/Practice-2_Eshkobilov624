@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\PR1-3\PR1-3\bin\Debug\net7.0\PR1-3.exe
+C:\Users\user\RiderProjects\PR1-3\PR1-3\bin\Debug\net7.0\PR1-3.deps.json
+C:\Users\user\RiderProjects\PR1-3\PR1-3\bin\Debug\net7.0\PR1-3.runtimeconfig.json
+C:\Users\user\RiderProjects\PR1-3\PR1-3\bin\Debug\net7.0\PR1-3.dll
+C:\Users\user\RiderProjects\PR1-3\PR1-3\bin\Debug\net7.0\PR1-3.pdb
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.dll
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\refint\PR1-3.dll
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.pdb
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\PR1-3.genruntimeconfig.cache
+C:\Users\user\RiderProjects\PR1-3\PR1-3\obj\Debug\net7.0\ref\PR1-3.dll

@@ -1,0 +1,14 @@
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\bin\Debug\net7.0\PR2-4.exe
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\bin\Debug\net7.0\PR2-4.deps.json
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\bin\Debug\net7.0\PR2-4.runtimeconfig.json
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\bin\Debug\net7.0\PR2-4.dll
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\bin\Debug\net7.0\PR2-4.pdb
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.AssemblyInfoInputs.cache
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.AssemblyInfo.cs
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.csproj.CoreCompileInputs.cache
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.dll
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\refint\PR2-4.dll
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.pdb
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\PR2-4.genruntimeconfig.cache
+C:\Users\gr624_eshrso\RiderProjects\PR2-4\PR2-4\obj\Debug\net7.0\ref\PR2-4.dll
